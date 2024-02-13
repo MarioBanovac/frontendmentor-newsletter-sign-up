@@ -1,0 +1,9 @@
+{
+  "name": "newsletter-sign-up-with-success-message-main",
+  "version": "1.0.0",
+  "description": "Newsletter sign up frontendmentor challenge solution",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Mario Banovac",
+  "license": "MIT"
+}
